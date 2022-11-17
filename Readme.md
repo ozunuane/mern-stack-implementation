@@ -246,7 +246,7 @@ The entire content will be deleted, then,
 Press i to enter the insert mode in vim
 
 Now, paste the entire code below in the file.
-![Project3pix10](https://user-images.githubusercontent.com/74002629/178157103-61393f4f-89da-4382-bdf1-425d50e5ae64.PNG)
+![Project3pix10](img/db.png)
 
 * Next, in the index.js file, we specified **process.env** to access environment variables, but we are yet to create the file. Now, create a file in the **Todo** directory and name it **.env** To do this type: 
 ```
