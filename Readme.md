@@ -1,8 +1,5 @@
-# Mern.Project
-MERN
-# Mern-stack-project-
-
-## MERN Stack
+## SIMPLE TO-DO APPLICATION ON MERN WEB STACK
+### Task - To deploy a simple To-Do application that creates To-Do lists
 
 ### MERN  stack is a web development framework. It consists of MongoDB, ExpressJS, ReactJS, and NodeJS as its working components. 
 
